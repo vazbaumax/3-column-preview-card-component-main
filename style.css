@@ -117,6 +117,11 @@
     justify-content: center;
   }
 
+  .card {
+    width: 305px;
+    height: 445px;
+  }
+
   #sedan {
     border-radius: 8px 0 0 8px;
   }
